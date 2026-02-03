@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Toko Edu – Ruang Usaha</title>
+</head>
+<body>
+  <h1>Toko Edu</h1>
+  <p>Menjual produk digital & modul pembelajaran.</p>
+  <a href="../">← Kembali ke Beranda</a>
+</body>
+</html>
